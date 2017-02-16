@@ -1,0 +1,13 @@
+{
+  "name": "brianhaveri/Underscore",
+  "description": "Underscore.php is a PHP port of Underscore.js.",
+  "keywords": [
+    "underscore"
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {
+      "": "."
+    }
+  }
+}
